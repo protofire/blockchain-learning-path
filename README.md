@@ -20,7 +20,7 @@ article but useful to solidify your knowledge).
 
 ## Ethereum
 
-1. TODO Some resource to learn the differences between the bitcoin and the ethereum blockchains.
-2. Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05).
+1. **TODO** Some resource to learn the differences between the bitcoin and the ethereum blockchains.
+2. Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 on smart contracts development.
 3. Read the [Truffle Documentation](http://truffleframework.com/docs/)
