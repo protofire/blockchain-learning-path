@@ -23,6 +23,7 @@ article but useful to solidify your knowledge).
 1. Read [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 2. Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 on smart contracts development.
-3. Read the [Truffle Documentation](http://truffleframework.com/docs/)
+3. Read Truffle's [Pet shop tutorial](http://truffleframework.com/tutorials/pet-shop)
+4. Read the [Truffle Documentation](http://truffleframework.com/docs/)
 
 **TODO** Add some resource to learn the differences between the bitcoin and the ethereum blockchains.
