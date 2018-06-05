@@ -25,5 +25,7 @@ article but useful to solidify your knowledge).
 on smart contracts development.
 3. Read Truffle's [Pet shop tutorial](http://truffleframework.com/tutorials/pet-shop)
 4. Read the [Truffle Documentation](http://truffleframework.com/docs/)
+5. Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/)
+6. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/)
 
 **TODO** Add some resource to learn the differences between the bitcoin and the ethereum blockchains.
