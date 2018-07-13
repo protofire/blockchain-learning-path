@@ -40,3 +40,12 @@ on smart contracts development. (Est. time: 15 minutes)
  (Est. time: 9 minutes)
 
 **TODO** Add some resource to learn the differences between the bitcoin and the ethereum blockchains.
+
+## Toolbox
+List of tools curated by Protofire team to better apply best practices to the Protocol and DApps development projects.
+
+- Development
+  - [http://truffleframework.com](Truffle framework)
+  - [https://github.com/protofire/solhint](Solidity Security and Style Guide validations linter)  
+- Security
+- Utils
