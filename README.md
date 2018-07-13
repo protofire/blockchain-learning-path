@@ -36,7 +36,8 @@ on smart contracts development. (Est. time: 15 minutes)
 2. [ABI](https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI)  (Est. time: 15 minutes)
 3. [Keccak256](https://www.slideshare.net/RajeevVerma14/keccakpptx) (Est. time: 15 minutes)
 4. [Random numbers](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract) (Est. time: 5 minutes)
-5. [Velocity of Tokens](https://medium.com/newtown-partners/velocity-of-tokens-26b313303b77)
- (Est. time: 9 minutes)
+5. [Velocity of Tokens](https://medium.com/newtown-partners/velocity-of-tokens-26b313303b77) (Est. time: 9 minutes)
+6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
+
 
 **TODO** Add some resource to learn the differences between the bitcoin and the ethereum blockchains.
