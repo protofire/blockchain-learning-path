@@ -56,7 +56,8 @@ on smart contracts development. (Est. time: 15 minutes)
 List of tools curated by Protofire team to better apply best practices to the Protocol and DApps development projects.
 
 #### General
-- [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
+- [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
+- [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 
 #### Audit
