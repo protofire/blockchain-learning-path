@@ -43,6 +43,9 @@ on smart contracts development. (Est. time: 15 minutes)
 5. [Velocity of Tokens](https://medium.com/newtown-partners/velocity-of-tokens-26b313303b77) (Est. time: 9 minutes)
 6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
 
+## Under the hood
+1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
+2. [Diving Into the Ethereum VM](https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30)
 
 ## Libraries
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
