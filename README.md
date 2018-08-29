@@ -47,10 +47,13 @@ on smart contracts development. (Est. time: 15 minutes)
 1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
 2. [Diving Into the Ethereum VM](https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30)
 
+## Best Practices
+- [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, and the broader Ethereum community.
+- [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
+
 ## Libraries
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
-- [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
 - [OpenZeppelin](https://openzeppelin.org/) - Framework to build secure smart contracts.
 
 ## Examples
@@ -66,9 +69,6 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 
 #### Audit
 - [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
-
-#### Best Practices
-- [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, and the broader Ethereum community.
 
 #### Utility
 - [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
