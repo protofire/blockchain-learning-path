@@ -50,6 +50,7 @@ on smart contracts development. (Est. time: 15 minutes)
 ## Libraries
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
+- [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
 - [OpenZeppelin](https://openzeppelin.org/) - Framework to build secure smart contracts.
 
 ## Examples
