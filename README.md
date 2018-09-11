@@ -29,6 +29,8 @@ on smart contracts development. (Est. time: 15 minutes)
 #### Practice
 1. Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/) (Est. time: 8 hs)
 2. Read and make and example: [Pet shop tutorial](http://truffleframework.com/tutorials/pet-shop)
+3. [Time-locked Wallets: An Introduction to Ethereum Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
+4. [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 
 ## Courses
 1. Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) (Est. time: 24 hs)
