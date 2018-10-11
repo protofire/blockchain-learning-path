@@ -35,6 +35,7 @@ on smart contracts development. (Est. time: 15 minutes)
 ## Courses
 1. Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) (Est. time: 24 hs)
 2. Free tutorial  [Learning Solidity](https://github.com/willitscale/learning-solidity)
+3. [Blockchain Architecture Design And Use Cases by IITKGP] (https://www.youtube.com/watch?v=PPFsG92-HiI&list=PLbRMhDVUMngfxxyVLh2t2gKDUfsOdGn56)
 
 
 ## Concepts
