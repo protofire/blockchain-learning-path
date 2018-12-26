@@ -23,7 +23,7 @@ article but useful to solidify your knowledge). (Est. time: 26 minutes)
 1. Read [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) (Est. time: 38 minutes)
 2. Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 on smart contracts development. (Est. time: 15 minutes)
-3. Read the [Truffle Documentation](http://truffleframework.com/docs/)
+3. Read the [Truffle Documentation](https://truffleframework.com/docs/)
 4. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/)
 5. Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
