@@ -40,6 +40,7 @@ on smart contracts development. (Est. time: 15 minutes)
 3. [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) (Est. time: 2 hs)
 
 ## Concepts
+0. [Crypto vocabulary](https://medium.com/datadriveninvestor/crypto-vocabulary-expanded-76131d26537b)
 1. [Blockchain Oracles, Explained](https://cointelegraph.com/explained/blockchain-oracles-explained) (Est. time: 4 minutes)
 2. [ABI](https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI) (Est. time: 15 minutes)
 3. [Keccak256](https://www.slideshare.net/RajeevVerma14/keccakpptx) (Est. time: 15 minutes)
