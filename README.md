@@ -81,5 +81,11 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 
+#### Newsletters
+- [Week in Ethereum News](https://www.weekinethereumnews.com/) - Ethereum news and links, layer 1, layer 2, client releases, stuff for developers, interviews, podcasts, videos, talks, etc 
+- [Reddit: /r/ethereum/](https://www.reddit.com/r/ethereum/) - Reddit about next-generation platform for decentralised applications.
+- [Reddit: /r/ethdev](https://www.reddit.com/r/ethdev) - Reddit about ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.
+- [Ethereum Research](http://ethresear.ch/) - Civilized discussion furthering Ethereum research
+
 
 **TODO** Add some resource to learn the differences between the bitcoin and the ethereum blockchains.
