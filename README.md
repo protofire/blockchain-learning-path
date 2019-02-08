@@ -33,6 +33,7 @@ on smart contracts development. (Est. time: 15 minutes)
 3. [Time-locked Wallets: An Introduction to Ethereum Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
 4. [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 5. [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ) (Est. time: 4 hs)
+6. [Ethernaut](https://ethernaut.zeppelin.solutions/) is a Web3/Solidity based wargame for those interested in learning ethereum
 
 ## Courses
 1. Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) (Est. time: 24 hs)
@@ -80,6 +81,12 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 - [solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity smart contracts.
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
+
+#### Newsletters
+- [Week in Ethereum News](https://www.weekinethereumnews.com/) - Ethereum news and links, layer 1, layer 2, client releases, stuff for developers, interviews, podcasts, videos, talks, etc 
+- [Reddit: /r/ethereum/](https://www.reddit.com/r/ethereum/) - Reddit about next-generation platform for decentralised applications.
+- [Reddit: /r/ethdev](https://www.reddit.com/r/ethdev) - Reddit about ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.
+- [Ethereum Research](http://ethresear.ch/) - Civilized discussion furthering Ethereum research
 
 
 **TODO** Add some resource to learn the differences between the bitcoin and the ethereum blockchains.
