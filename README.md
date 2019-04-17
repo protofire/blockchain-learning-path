@@ -48,6 +48,7 @@ on smart contracts development. (Est. time: 15 minutes)
 4. [Random numbers](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract) (Est. time: 5 minutes)
 5. [Velocity of Tokens](https://medium.com/newtown-partners/velocity-of-tokens-26b313303b77) (Est. time: 9 minutes)
 6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
+7. [Weth](https://weth.io/)
 
 ## Under the hood
 1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
@@ -64,6 +65,18 @@ on smart contracts development. (Est. time: 15 minutes)
 
 ## Examples
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
+
+## Smart Contract Standards
+#### The Ethereum Request for Comment repository
+- [ERCs](https://eips.ethereum.org/erc) - Ethereum Improvement Proposals
+#### Tokens
+- [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
+- [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
+- [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
+#### Others
+- [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - Creates a standard method to publish and detect what interfaces a smart contract implements.
+- [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - A standard interface for a simple proxy account.
+- [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - A standard interface for ownership of contracts.
 
 ## Toolbox
 List of tools curated by Protofire team to better apply best practices to the Protocol and DApps development projects.
