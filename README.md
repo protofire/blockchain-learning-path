@@ -12,6 +12,9 @@ with:
 - Digital signatures
 - Cryptographic hashing
 
+## Blockchain main goal
+Watch [this video](https://www.youtube.com/watch?v=RplnSVTzvnU) (Understanding Blockchain function). (Est. time: 15 minutes)
+
 ## Bitcoin
 
 1. Read [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/). (Est. time: 45 minutes)
@@ -67,6 +70,9 @@ on smart contracts development. (Est. time: 15 minutes)
 ## Examples
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
 
+## Ethereum vs. Bitcoin
+- [Some key differences between Bitcoin and Ethereum](https://vimba.co/blog/post/bitcoin-vs-ethereum) - Features and differences between Bitcoin and Ethereum. 
+
 ## Smart Contract Standards
 #### The Ethereum Request for Comment repository
 - [ERCs](https://eips.ethereum.org/erc) - Ethereum Improvement Proposals
@@ -101,6 +107,3 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 - [Reddit: /r/ethereum/](https://www.reddit.com/r/ethereum/) - Reddit about next-generation platform for decentralised applications.
 - [Reddit: /r/ethdev](https://www.reddit.com/r/ethdev) - Reddit about ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.
 - [Ethereum Research](http://ethresear.ch/) - Civilized discussion furthering Ethereum research
-
-
-**TODO** Add some resource to learn the differences between the bitcoin and the ethereum blockchains.
