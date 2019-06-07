@@ -12,8 +12,10 @@ with:
 - Digital signatures
 - Cryptographic hashing
 
-## Blockchain main goal
-Watch [this video](https://www.youtube.com/watch?v=RplnSVTzvnU) (Understanding Blockchain function). (Est. time: 15 minutes)
+## Blockchain
+
+1. Read [What is Blockchain?](https://medium.com/coinmonks/blockchain-technology-explained-7d68c4435aca). (Est.time: 10 minutes)
+2. Watch [this video](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
 
 ## Bitcoin
 
@@ -107,3 +109,7 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 - [Reddit: /r/ethereum/](https://www.reddit.com/r/ethereum/) - Reddit about next-generation platform for decentralised applications.
 - [Reddit: /r/ethdev](https://www.reddit.com/r/ethdev) - Reddit about ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.
 - [Ethereum Research](http://ethresear.ch/) - Civilized discussion furthering Ethereum research
+
+#### Talks
+- [Understanding Blockchain function](https://www.youtube.com/watch?v=RplnSVTzvnU) - Say hello to the decentralized economy. (Est. time: 15 minutes)
+
