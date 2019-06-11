@@ -15,7 +15,7 @@ with:
 ## Blockchain
 
 1. Read [What is Blockchain?](https://medium.com/coinmonks/blockchain-technology-explained-7d68c4435aca). (Est.time: 10 minutes)
-2. Watch [this video](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
+2. Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
 
 ## Bitcoin
 
@@ -103,6 +103,8 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 - [solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity smart contracts.
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
+
+## Miscellaneous
 
 #### Newsletters
 - [Week in Ethereum News](https://www.weekinethereumnews.com/) - Ethereum news and links, layer 1, layer 2, client releases, stuff for developers, interviews, podcasts, videos, talks, etc 
