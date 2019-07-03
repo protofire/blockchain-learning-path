@@ -12,6 +12,11 @@ with:
 - Digital signatures
 - Cryptographic hashing
 
+## Blockchain
+
+1. Read [What is Blockchain?](https://medium.com/coinmonks/blockchain-technology-explained-7d68c4435aca). (Est.time: 10 minutes)
+2. Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
+
 ## Bitcoin
 
 1. Read [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/). (Est. time: 45 minutes)
@@ -67,6 +72,9 @@ on smart contracts development. (Est. time: 15 minutes)
 ## Examples
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
 
+## Ethereum vs. Bitcoin
+- [Some key differences between Bitcoin and Ethereum](https://vimba.co/blog/post/bitcoin-vs-ethereum) - Features and differences between Bitcoin and Ethereum. 
+
 ## Smart Contract Standards
 #### The Ethereum Request for Comment repository
 - [ERCs](https://eips.ethereum.org/erc) - Ethereum Improvement Proposals
@@ -96,11 +104,14 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 
+## Miscellaneous
+
 #### Newsletters
 - [Week in Ethereum News](https://www.weekinethereumnews.com/) - Ethereum news and links, layer 1, layer 2, client releases, stuff for developers, interviews, podcasts, videos, talks, etc 
 - [Reddit: /r/ethereum/](https://www.reddit.com/r/ethereum/) - Reddit about next-generation platform for decentralised applications.
 - [Reddit: /r/ethdev](https://www.reddit.com/r/ethdev) - Reddit about ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.
 - [Ethereum Research](http://ethresear.ch/) - Civilized discussion furthering Ethereum research
 
+#### Talks
+- [Understanding Blockchain function](https://www.youtube.com/watch?v=RplnSVTzvnU) - Say hello to the decentralized economy. (Est. time: 15 minutes)
 
-**TODO** Add some resource to learn the differences between the bitcoin and the ethereum blockchains.
