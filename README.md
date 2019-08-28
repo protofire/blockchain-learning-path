@@ -55,6 +55,7 @@ on smart contracts development. (Est. time: 15 minutes)
 6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
 7. [Weth](https://weth.io/)
 8. [Decentralized Finance (DeFi)](https://github.com/ong/awesome-decentralized-finance)
+9. [Decentralized Finance (DeFi)](https://defiprime.com) - Curated directory of DeFi projects. 
 
 ## Under the hood
 1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
@@ -73,7 +74,7 @@ on smart contracts development. (Est. time: 15 minutes)
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
 
 ## Ethereum vs. Bitcoin
-- [Some key differences between Bitcoin and Ethereum](https://vimba.co/blog/post/bitcoin-vs-ethereum) - Features and differences between Bitcoin and Ethereum. 
+- [Some key differences between Bitcoin and Ethereum](https://vimba.co/blog/post/bitcoin-vs-ethereum) - Features and differences between Bitcoin and Ethereum.
 
 ## Smart Contract Standards
 #### The Ethereum Request for Comment repository
@@ -107,11 +108,10 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 ## Miscellaneous
 
 #### Newsletters
-- [Week in Ethereum News](https://www.weekinethereumnews.com/) - Ethereum news and links, layer 1, layer 2, client releases, stuff for developers, interviews, podcasts, videos, talks, etc 
+- [Week in Ethereum News](https://www.weekinethereumnews.com/) - Ethereum news and links, layer 1, layer 2, client releases, stuff for developers, interviews, podcasts, videos, talks, etc
 - [Reddit: /r/ethereum/](https://www.reddit.com/r/ethereum/) - Reddit about next-generation platform for decentralised applications.
 - [Reddit: /r/ethdev](https://www.reddit.com/r/ethdev) - Reddit about ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.
 - [Ethereum Research](http://ethresear.ch/) - Civilized discussion furthering Ethereum research
 
 #### Talks
 - [Understanding Blockchain function](https://www.youtube.com/watch?v=RplnSVTzvnU) - Say hello to the decentralized economy. (Est. time: 15 minutes)
-
