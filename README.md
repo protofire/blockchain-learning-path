@@ -54,8 +54,9 @@ on smart contracts development. (Est. time: 15 minutes)
 5. [Velocity of Tokens](https://medium.com/newtown-partners/velocity-of-tokens-26b313303b77) (Est. time: 9 minutes)
 6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
 7. [Weth](https://weth.io/)
-8. [Decentralized Finance (DeFi)](https://github.com/ong/awesome-decentralized-finance)
-9. [Decentralized Finance (DeFi)](https://defiprime.com) - Curated directory of DeFi projects. 
+8. Decentralized Finance (DeFi):
+    - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
+    - [DeFi Prime](https://defiprime.com) - Curated directory of DeFi projects. 
 
 ## Under the hood
 1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
