@@ -14,7 +14,7 @@ with:
 
 ## Blockchain
 
-1. Read [What is Blockchain?](https://medium.com/coinmonks/blockchain-technology-explained-7d68c4435aca). (Est.time: 10 minutes)
+1. Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp). (Est.time: 26 minutes)
 2. Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
 
 ## Bitcoin
