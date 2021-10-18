@@ -91,6 +91,10 @@ with:
 
 - [Some key differences between Bitcoin and Ethereum](https://vimba.co/blog/post/bitcoin-vs-ethereum) - Features and differences between Bitcoin and Ethereum.
 
+## Substrate
+
+- [Initiate a Forkless Runtime Upgrade](https://docs.substrate.io/tutorials/v3/forkless-upgrades#schedule-an-upgrade) - Forkless Runtime Upgrade useful for initial setups and parachains' CI/CD pipelines.
+
 ## Smart Contract Standards
 
 #### The Ethereum Request for Comment repository
