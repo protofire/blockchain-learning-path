@@ -66,7 +66,7 @@ with:
 8. Decentralized Finance (DeFi):
    - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
    - [DeFi Prime](https://defiprime.com) - Curated directory of DeFi projects.
-
+9. [Smart Contracts](https://www.investopedia.com/terms/s/smart-contracts.asp)
 ## Under the hood
 
 1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
@@ -89,7 +89,7 @@ with:
 
 ## Ethereum vs. Bitcoin
 
-- [Some key differences between Bitcoin and Ethereum](https://vimba.co/blog/post/bitcoin-vs-ethereum) - Features and differences between Bitcoin and Ethereum.
+- [Some key differences between Bitcoin and Ethereum](https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp) - Features and differences between Bitcoin and Ethereum.
 
 ## Smart Contract Standards
 
