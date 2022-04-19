@@ -37,6 +37,7 @@ with:
 3. Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
 4. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
 5. Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+6. Set of learning resources from [ethereum.org](https://ethereum.org/en/learn/)
 
 #### Practice
 
@@ -64,6 +65,7 @@ with:
 6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
 7. [Weth](https://weth.io/)
 8. Decentralized Finance (DeFi):
+   - [Intro to DeFi](https://ethereum.org/en/defi/) - Introduction to DeFi and it's main ideas.
    - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
    - [DeFi Prime](https://defiprime.com) - Curated directory of DeFi projects.
 9. [Smart Contracts](https://www.investopedia.com/terms/s/smart-contracts.asp)
@@ -143,3 +145,7 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 #### Talks
 
 - [Understanding Blockchain function](https://www.youtube.com/watch?v=RplnSVTzvnU) - Say hello to the decentralized economy. (Est. time: 15 minutes)
+
+#### Videos
+
+- [DeFi from Finematics](https://www.youtube.com/c/Finematics/videos) - Educational videos on DeFi (Decentralized Finance).
