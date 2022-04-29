@@ -65,7 +65,7 @@ with:
 6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
 7. [Weth](https://weth.io/)
 8. Decentralized Finance (DeFi):
-   - [Intro to DeFi](https://ethereum.org/en/defi/) - Introduction to DeFi and it's main ideas.
+   - [Intro to DeFi](https://ethereum.org/en/defi/) - Introduction to DeFi and its main ideas.
    - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
    - [DeFi Prime](https://defiprime.com) - Curated directory of DeFi projects.
 9. [Smart Contracts](https://www.investopedia.com/terms/s/smart-contracts.asp)
