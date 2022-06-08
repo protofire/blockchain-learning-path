@@ -9,23 +9,23 @@ Besides a programming background, this path assumes that the reader is at least 
 with:
 
 - Public key cryptography
-  1. Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes)
-  2. Read [What is Public-key Cryptography?](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography). (Est. time: 4 minutes)
+  1. Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4) (Est. time: 7 minutes)
+  2. Read [What is Public-key Cryptography?](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography) (Est. time: 4 minutes)
 - Digital signatures
-  1. Read [Cryptography Digital Signitures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm). (Est. time: 10 minutes)
+  1. Read [Cryptography Digital Signatures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm) (Est. time: 10 minutes)
   2. Watch [What are Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) (Est. time: 3 minutes)
 - Cryptographic hashing
   1. Watch [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70) (Est. time: 5 minutes)
-  2. Read [What is Hashing in Blockchain?](https://learn.bybit.com/blockchain/what-is-hashing-in-blockchain/). (Est. time: 9 minutes)
+  2. Read [What is Hashing in Blockchain?](https://learn.bybit.com/blockchain/what-is-hashing-in-blockchain/) (Est. time: 9 minutes)
 
 ## Blockchain
 
-1. Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp). (Est.time: 26 minutes)
-2. Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
+1. Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp) (Est.time: 26 minutes)
+2. Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8) (Est. time: 18 minutes)
 
 ## Bitcoin
 
-1. Read [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/). (Est. time: 45 minutes)
+1. Read [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/) (Est. time: 45 minutes)
 2. Watch [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4) (lighter than the previous
    article but useful to solidify your knowledge). (Est. time: 26 minutes)
 
@@ -71,6 +71,7 @@ with:
    - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
    - [DeFi Prime](https://defiprime.com) - Curated directory of DeFi projects.
 9. [Smart Contracts](https://www.investopedia.com/terms/s/smart-contracts.asp)
+
 ## Under the hood
 
 1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
