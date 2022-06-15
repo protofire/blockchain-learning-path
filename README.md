@@ -86,6 +86,7 @@ with:
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
 - [OpenZeppelin](https://openzeppelin.org/) - Framework to build secure smart contracts.
+- [Manifold](https://www.manifold.xyz/) - Solidity libraries to build NFT projects.
 
 ## Examples
 
