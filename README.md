@@ -28,6 +28,7 @@ with:
 1. Read [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/). (Est. time: 45 minutes)
 2. Watch [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4) (lighter than the previous
    article but useful to solidify your knowledge). (Est. time: 26 minutes)
+3. Read [Matering Bitcoin Book ](https://github.com/bitcoinbook/bitcoinbook)
 
 ## Ethereum
 
@@ -55,6 +56,7 @@ with:
 1. Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) (Est. time: 24 hs)
 2. Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
 3. [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) (Est. time: 2 hs)
+4. [Full Stake Blockchain Development with solidity , Python : Freecodecamp](https://www.youtube.com/watch?v=M576WGiDBdQ&t=60s) (Est. time: 31 hs)
 
 ## Concepts
 
@@ -70,6 +72,7 @@ with:
    - [Intro to DeFi](https://ethereum.org/en/defi/) - Introduction to DeFi and its main ideas.
    - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
    - [DeFi Prime](https://defiprime.com) - Curated directory of DeFi projects.
+   - [DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - A Defi Developer Roadmap .
 9. [Smart Contracts](https://www.investopedia.com/terms/s/smart-contracts.asp)
 ## Under the hood
 
