@@ -109,6 +109,7 @@ with:
 
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
+- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - Multi Token Standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract.
 - [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
 
 #### Others
