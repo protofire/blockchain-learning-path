@@ -133,7 +133,7 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 
 #### Audit
 
-- [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
+- [Static and dynamic code analysis](https://consensys.github.io/smart-contract-best-practices/security-tools/static-and-dynamic-analysis/)
 
 #### Utility
 
