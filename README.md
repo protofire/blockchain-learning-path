@@ -67,7 +67,7 @@ with:
 3. [Keccak256](https://www.slideshare.net/RajeevVerma14/keccakpptx) (Est. time: 15 minutes)
 4. [Random numbers](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract) (Est. time: 5 minutes)
 5. [Velocity of Tokens](https://medium.com/newtown-partners/velocity-of-tokens-26b313303b77) (Est. time: 9 minutes)
-6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
+6. [Gas](https://ethereum.org/en/developers/docs/gas/) (Est. time: 11-14 minutes)
 7. [Weth](https://weth.io/)
 8. Decentralized Finance (DeFi):
    - [Intro to DeFi](https://ethereum.org/en/defi/) - Introduction to DeFi and its main ideas.
