@@ -38,7 +38,7 @@ with:
 1. Read [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) (Est. time: 38 minutes)
 2. Read [this article](https://blog.openzeppelin.com/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
    on smart contracts development. (Est. time: 15 minutes)
-3. Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
+3. Learn about hardhat [Hardhat Documentation](https://hardhat.org/getting-started/)
 4. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
 5. Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 6. Set of learning resources from [ethereum.org](https://ethereum.org/en/learn/)
